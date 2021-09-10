@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'SFPProDisplay-Light', sans-serif;
+  src: url('..fonts/SFPProDisplay-Light.woff2') format('woff2'),
+    url('..fonts/SFPProDisplay-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SFPProDisplay-Regular', sans-serif;
+  src: url('..fonts/SFPProDisplay-Regular.woff2') format('woff2'),
+    url('..fonts/SFPProDisplay-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SFPProDisplay-Medium', sans-serif;
+  src: url('..fonts/SFPProDisplay-Medium.woff2') format('woff2'),
+    url('..fonts/SFPProDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SFPProDisplay-Semibold', sans-serif;
+  src: url('..fonts/SFPProDisplay-Semibold.woff2') format('woff2'),
+    url('..fonts/SFPProDisplay-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SFPProDisplay-Bold', sans-serif;
+  src: url('..fonts/SFPProDisplay-Bold.woff2') format('woff2'),
+    url('..fonts/SFPProDisplay-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
